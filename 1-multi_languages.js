@@ -1,3 +1,3 @@
-let myVar = `C is fun \n Python is cool \n JavaScript is amazing`
+let myVar ="C is fun \nPython is cool \nJavaScript is amazing"
 console.log (myVar)
 
