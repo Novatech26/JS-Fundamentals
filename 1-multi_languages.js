@@ -1,5 +1,7 @@
+function print(arg1,arg2){
+  console.log(arg1 + " is " + arg2)
+}
 
-console.log ("C is fun")
-console.log ("Python is cool")
-console.log ("JavaScript is amazing")
-
+print("C","fun")
+print("Python","cool")
+print("Javascript","amazing")
