@@ -1,8 +1,9 @@
 let name="python"
 let name="HBTN"
+let name
 
-if (name=python){console.log(name + " is" +" fun")}
+if (name=python){console.log("python is fun")}
 
-elseif(name=HBTN){console.log(name)}
+elseif(name=HBTN){console.log()}
 
 else
