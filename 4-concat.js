@@ -1,7 +1,6 @@
 function print(arg1,arg2){
-  console.log(arg1 + " " + "is" + " "+ arg2)
-return}
+  console.log(arg1 + " " + "is" + " "+ arg2)}
 
-print("c","cool")
-print("c","")
+print("HBTN","Python fun")
+print("HBTN","")
 print("","")
