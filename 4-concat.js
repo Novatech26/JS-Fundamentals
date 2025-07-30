@@ -3,3 +3,5 @@ function print(arg1,arg2){
 return}
 
 print("c","cool")
+print("c","")
+print("","")
