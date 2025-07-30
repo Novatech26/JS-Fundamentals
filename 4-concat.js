@@ -1,6 +1,5 @@
-function jack(arg1, arg2) {
-  console.log(arg1 + " is " + arg2 + " fun ");
-}
+function print(arg1,arg2){
+  console.log(arg1 + " " + "is" + " "+ arg2)
+return}
 
-jack("HBTN", "Python");
-
+print("c","cool")
