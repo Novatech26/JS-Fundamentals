@@ -3,7 +3,7 @@ function print(arg1, arg2) {
 }
 if (arg1&&arg2)
   print("Python","fun")
-elseif (arg1)
+if (arg1)
   print("HBTN")
 else
   print()
