@@ -1,9 +1,8 @@
-function print(arg1,arg2,){
-  console.log(arg1 + " " + "is" + " "+ arg2)}
+let name="python"
+let name="HBTN"
 
-if (arg1,arg2){print("Python","fun")}
+if (name=python){console.log(name + " is" +" fun")}
 
-elseif(arg1){print("HBTN")}
+elseif(name=HBTN){console.log(name)}
 
 else
-print()
