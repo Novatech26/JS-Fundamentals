@@ -1,7 +1,5 @@
-function print(a,b){
-  let print=sum
-sum=a+b
-  console.log(sum)
+function print(arg1,arg2){
+  console.log(arg1 + arg2)
 }
 
 print(4,85)
