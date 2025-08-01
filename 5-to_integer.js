@@ -1,3 +1,3 @@
-const number=[89,'89',-4545,'-4545','ALX']
+let x= 89
 	if (!isNaN(number)){console.log("My number:"+ number)}
 	else{console.log("Not a number")}
