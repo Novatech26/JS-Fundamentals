@@ -1,18 +1,18 @@
 let num1= 89
 console.log("My number: "+ num1);
 
-let score= '89'
-score=Number(score)
-console.log("My number: "+ score);
+let str1= '89'
+str1=Number(str1)
+console.log("My number: "+ str1);
 
 let score= -4545
 console.log("My number: "+ score);
 
-let str3= '-4545'
+let str2= '-4545'
+str2=Number(str2)
+console.log("My number: "+ str2);
+
+let str3= 'ALX'
 str3=Number(str3)
 console.log("My number: "+ str3);
-
-let str4= 'ALX'
-str4=Number(str4)
-console.log("My number: "+ str4);
 
