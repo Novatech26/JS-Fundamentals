@@ -1,4 +1,3 @@
-const x=[89,'89',-4545,'-4545','ALX']{
+const x=[89,'89',-4545,'-4545','ALX']
 	if (x===integer){console.log("My number:")}
 	else{console.log("Not a Number")}
-}
