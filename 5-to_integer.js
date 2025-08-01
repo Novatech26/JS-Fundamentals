@@ -1,3 +1,7 @@
-let x= 89
-	if (!isNaN(number)){console.log("My number:"+ number)}
-	else{console.log("Not a number")}
+let text= 89
+score=number(text)
+console.log(score);
+
+let text= '89'
+score=number(text)
+console.log(score);
