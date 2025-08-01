@@ -1,5 +1,4 @@
-let myNumber = "89"
-if (myNumber = 89 )
-	console.log(correct)
-else ()
-console.log(Not a number)
+const x=[89,'89',-4545,'-4545','ALX']{
+	if (x===integer){console.log("My number:")}
+	else{console.log("Not a Number")}
+}
