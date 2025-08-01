@@ -1,6 +1,8 @@
-function print(arg1, arg2) {
- console.log(arg1 +" is " + arg2)
+let a="python fun"
+let b="HBTN"
+function print(a, b) {
+ console.log(a +" is " + b)
 };
-print("Python","fun")
-print("HBTN")
-print()
+if (a!==undefined && b!==undefined){print("Python","fun")}
+else if (b!==undefined){print("HBTN")}
+else{print()}
