@@ -1,7 +1,6 @@
-let text= 89
-score=number(text)
-console.log(score);
+let num1= 89
+console.log("My number: "+ num1);
 
-let text= '89'
-score=number(text)
-console.log(score);
+let str1= '89'
+score=number(str1)
+console.log("My number: "+ score);
