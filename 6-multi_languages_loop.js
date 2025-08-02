@@ -1,7 +1,6 @@
-function print(arg1,arg2){
-  console.log(arg1 + " is " + arg2)
+const lang=["C is fun", "Python is cool", "Javascript is amazing"]
+function (print){
+  for{let i=0; i<lang.length; i++}
+  console.log(lang[i])
 }
-
-print("C","fun")
-print("Python","cool")
-print("Javascript","amazing")
+print(lang)
