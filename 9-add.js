@@ -1,8 +1,9 @@
-function print(arg1,arg2){  
+  
+function sum(a,b){
+  console.log(a+b)
 }
 
-print(4,85)
-print(-4,93)
-print(4)
-print()
-console.log(arg1 + arg2)
+sum(4,85)
+sum(-4,93)
+sum(4)
+sum()
