@@ -1,5 +1,7 @@
-let text=["C is fun","C is fun","C is fun","C is fun","C is fun","C is fun"]
-for (let i=0; i<text.length; i++){
-  console.log(text[i]);
+for (let i=0; i<6; i++){
+  console.log("C is fun")
 }
 
+for (let i=0; i<1; i++){
+  console.log("C is fun")
+}
