@@ -1,7 +1,14 @@
+function print(a, b) {
+ console.log(a +" is " + b)
+};
+print("Python","fun");
+//this is a new argument
+function print(a, b) {
+ console.log(a +" is " + b)
+};
+print("HBTN");
 
-function print(arg1, arg2) {
-  console.log(arg1 +" is " + arg2)
-}
-  print("Python","fun")
-  print("HBTN")
-  print()
+function print(a, b) {
+ console.log(a +" is " + b)
+};
+print()

@@ -1,6 +1,6 @@
-const language = [C,Python,Javascript];
-let i= 0;
-text="";
-while(language[i]){
-text += l
-}
+
+let lang=["C is fun", "Python is cool", "JavaScript is amazing"]
+
+  for (let i=0; i<lang.length; i++){
+  console.log(lang[i])
+  }
