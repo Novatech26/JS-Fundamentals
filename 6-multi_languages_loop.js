@@ -1,7 +1,6 @@
-function print(arg1,arg2){
-  console.log(arg1 + " is " + arg2)
+const language = [C,Python,Javascript];
+let i= 0;
+text="";
+while(language[i]){
+text += l
 }
-
-print("C","fun")
-print("Python","cool")
-print("Javascript","amazing")
