@@ -1,14 +1,10 @@
-function print(a, b) {
- console.log(a +" is " + b)
-};
-print("Python","fun");
-//this is a new argument
-function print(a, b) {
- console.log(a +" is " + b)
-};
-print("HBTN");
+let a=process.argv[2]
+let b=process.argv[3]
 
-function print(a, b) {
+if (a==undefined && b==undefined){
+  console.log(a +" is " + b)
+}
+else if (a!==undefined && b!==undefined){
  console.log(a +" is " + b)
-};
-print()
+}
+else {console.log(a +" is " + b)}
