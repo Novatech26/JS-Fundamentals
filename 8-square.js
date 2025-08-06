@@ -1,8 +1,7 @@
-let a=process.argv[2]
+let a=parseInt(process.argv[2])
 if (isNaN(a)){
   console.log("Missing size");
 }
-else{
-  for (let i=0; i<a; i++)
-  {console.log(a*a)}  
+else{for (let i=0; i<a; i++)
+  {console.log("X".repeat(a))}
   }
