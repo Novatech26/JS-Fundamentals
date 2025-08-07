@@ -1,9 +1,11 @@
-let x=parseInt(process.argv[2])
-if (isNaN(x)){
-  console.log(1)
-} else {
-  for (let i=1;i<x;i++){
-  function sum(){
-  console.log(x*x-1)}}
+const num=parseInt(process.argv[2])
+
+function factorial(n) {
+if (isNaN(n) || n===0){
+  return 1
 }
-sum()
+ else {
+return  n*factorial(n-1);
+ }
+ console.log(factorial(num))
+}
