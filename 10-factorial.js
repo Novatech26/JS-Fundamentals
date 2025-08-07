@@ -1,9 +1,9 @@
 let x=parseInt(process.argv[2])
-let a=parseInt(process.argv[3])
 if (isNaN(x)){
   console.log(1)
 } else {
+  for (let i=1;i<x;i++){
   function sum(){
-  console.log(x-1)}
+  console.log(x*x-1)}}
 }
 sum()
